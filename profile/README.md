@@ -20,6 +20,10 @@ So far,
 
 ## Upcoming
 
+1. Redo api to not process orders & only look up for trades. 
 - Grouping coin trades by pair #22 https://github.com/cryptoyell/binance-order-history-web-api/issues/22
+
+2. Update api to use react-table & react-query
 - Improving sorting to support ascending and descending order #12 https://github.com/cryptoyell/binance-order-history-web-app/issues/12
-- UI improvements #5 https://github.com/cryptoyell/binance-order-history-web-app/issues/5
+
+3. Graph the quantities 
