@@ -4,30 +4,37 @@
 
 So far,
 
-1. For Binance, you can check your wallet through the:
+1. For Binance, receive price for BTC_BUSD on Slack
+- - https://github.com/cryptotools-xyz/binance-spot-alert-api-app
+
+2. For Binance, you can check your wallet through the:
 - - api https://github.com/cryptoyell/binance-wallet-fiat-spot-api
 - - webapp https://github.com/cryptoyell/binance-wallet-fiat-spot-web-app
 
-2. For Binance, you can check your order history through the:
+3. For Binance, you can check your order history through the:
 - - api https://github.com/cryptoyell/binance-order-history-web-api
 - - webapp https://github.com/cryptoyell/binance-order-history-web-api
 
-3. (WIP) For Binance, receive notifications after your open orders are executed 
+4. (WIP) For Binance, receive notifications after your open orders are executed 
 - - https://github.com/cryptoyell/binance-open-order-android-app
 - - https://github.com/cryptoyell/binance-open-order-mobile-app
 
-4. (WIP) For Binance, receive notifications everytime BTC cross 1000$ mark. 
-
 ## Upcoming
 
-1. Redo api to not process orders & only look up for trades. 
+- https://github.com/cryptotools-xyz/binance-spot-alert-api-app
+- - only display once we pass a thousand
+- - enable for eth, and top 10 cryptos
+- - https://laravel-notification-channels.com/twitter/ tweets
+- - https://laravel-notification-channels.com/telegram/ channel
+
+- Redo api to not process orders & only look up for trades. 
 - Grouping coin trades by pair #22 https://github.com/cryptoyell/binance-order-history-web-api/issues/22
 
-2. Update api to use react-table & react-query
+- Update api to use react-table & react-query
 - Improving sorting to support ascending and descending order #12 https://github.com/cryptoyell/binance-order-history-web-app/issues/12
 
-3. Graph the quantities 
+- Graph the quantities 
 
-4. Show wallet with password access on .env file heroku
+- Show wallet with password access on .env file heroku
 
-5. Show trades with password acces on .env
+- Show trades with password acces on .env
