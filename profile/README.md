@@ -4,7 +4,7 @@
 
 So far,
 
-1. For Binance, receive price for BTC_BUSD on Slack
+1. For Binance, receive alerts on Slack for (BTC_BUSD, ETH_BUSD)
 - - https://github.com/cryptotools-xyz/binance-spot-alert-api-app
 
 2. For Binance, you can check your wallet through the:
@@ -22,7 +22,6 @@ So far,
 ## Upcoming
 
 - https://github.com/cryptotools-xyz/binance-spot-alert-api-app
-- - only display once we pass a thousand
 - - enable for eth, and top 10 cryptos
 - - https://laravel-notification-channels.com/twitter/ tweets
 - - https://laravel-notification-channels.com/telegram/ channel
