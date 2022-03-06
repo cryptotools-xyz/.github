@@ -27,3 +27,7 @@ So far,
 - Improving sorting to support ascending and descending order #12 https://github.com/cryptoyell/binance-order-history-web-app/issues/12
 
 3. Graph the quantities 
+
+4. Show wallet with password access on .env file heroku
+
+5. Show trades with password acces on .env
