@@ -20,10 +20,6 @@ So far,
 
 ## Upcoming
 
-- Hello World! Ionic app #1 https://github.com/cryptoyell/binance-open-order-mobile-app/issues/1
-- notification display test #4 https://github.com/cryptoyell/binance-open-order-mobile-app/issues/4
-- Deployment production #3 https://github.com/cryptoyell/binance-open-order-mobile-app/issues/3
 - Grouping coin trades by pair #22 https://github.com/cryptoyell/binance-order-history-web-api/issues/22
-- Implement Visual Studio workspace and testing with linting Typescript or Eslint #11 https://github.com/cryptoyell/binance-order-history-web-app/issues/11
 - Improving sorting to support ascending and descending order #12 https://github.com/cryptoyell/binance-order-history-web-app/issues/12
 - UI improvements #5 https://github.com/cryptoyell/binance-order-history-web-app/issues/5
