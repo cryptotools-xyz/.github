@@ -22,7 +22,6 @@ So far,
 ## Upcoming
 
 - https://github.com/cryptotools-xyz/binance-spot-alert-api-app
-- - enable for eth, and top 10 cryptos
 - - https://laravel-notification-channels.com/twitter/ tweets
 - - https://laravel-notification-channels.com/telegram/ channel
 
