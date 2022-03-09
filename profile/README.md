@@ -21,6 +21,10 @@ So far,
 
 ## Upcoming
 
+https://github.com/cryptoyell/binance-wallet-fiat-spot-api
+- display wallet
+- allow projections & estimations
+
 - https://github.com/cryptotools-xyz/binance-spot-alert-api-app
 - - https://laravel-notification-channels.com/twitter/ tweets
 - - https://laravel-notification-channels.com/telegram/ channel
