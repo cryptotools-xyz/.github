@@ -2,34 +2,10 @@
 
 https://souhailmerroun.notion.site/cryptotools-xyz-26b4daed5f9345f48c44cf99a8cb8aef
 
-## Tools
-
-So far,
-
-1. For Binance, receive alerts on Slack for (BTC_BUSD, ETH_BUSD)
-- - https://github.com/cryptotools-xyz/binance-spot-alert-api-app
-
-2. For Binance, you can check your wallet through the:
-- - api https://github.com/cryptoyell/binance-wallet-fiat-spot-api
-- - webapp https://github.com/cryptoyell/binance-wallet-fiat-spot-web-app
-
-3. For Binance, you can check your order history through the:
-- - api https://github.com/cryptoyell/binance-order-history-web-api
-- - webapp https://github.com/cryptoyell/binance-order-history-web-api
-
-4. (WIP) For Binance, receive notifications after your open orders are executed 
-- - https://github.com/cryptoyell/binance-open-order-android-app
-- - https://github.com/cryptoyell/binance-open-order-mobile-app
-
-## Upcoming
+## WIP
 
 https://github.com/cryptoyell/binance-wallet-fiat-spot-api
 - display wallet
-- allow projections & estimations
-
-- https://github.com/cryptotools-xyz/binance-spot-alert-api-app
-- - https://laravel-notification-channels.com/twitter/ tweets
-- - https://laravel-notification-channels.com/telegram/ channel
 
 - Redo api to not process orders & only look up for trades. 
 - Grouping coin trades by pair #22 https://github.com/cryptoyell/binance-order-history-web-api/issues/22
