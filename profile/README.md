@@ -4,6 +4,7 @@
 - https://github.com/cryptotools-xyz/binance-order-spot-history-web-app (Web app)
 - https://github.com/cryptotools-xyz/binance-open-order-mobile-app (Mobile app)
 - https://github.com/cryptotools-xyz/binance-open-order-mobile-app-android (Mobile app Android)
+- https://github.com/cryptotools-xyz/binance-order-spot-history-web-api (Web api)
 
 ## Binance spot alert 
 - https://github.com/cryptotools-xyz/binance-spot-alert-api-app (Web api)
